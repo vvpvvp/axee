@@ -1,0 +1,31 @@
+{
+  "name": "axee",
+  "version": "0.0.1",
+  "description": "Http request package based axios for the browser.",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vvpvvp/axee.git"
+  },
+  "keywords": [
+    "axee",
+    "date",
+    "axios"
+  ],
+  "author": {
+    "name": "vvpvvp"
+  },
+  "license": "The MIT License",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "qs": "^6.5.1"
+  },
+  "bugs": {
+    "url": "https://github.com/vvpvvp/axee/issues"
+  },
+  "scripts": {
+    "test": "mocha ./test/*.js",
+    "report": "mocha --reporter mochawesome"
+  },
+  "readmeFilename": "README.md"
+}

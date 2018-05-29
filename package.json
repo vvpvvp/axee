@@ -18,7 +18,8 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
-    "qs": "^6.5.1"
+    "qs": "^6.5.1",
+    "vvpvvp": "0.0.3"
   },
   "bugs": {
     "url": "https://github.com/vvpvvp/axee/issues"
